@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Julian!
 
-🎓 A passionate **BS in Information Technology** student from **Colegio de San Juan de Letran Manila**, exploring the world of software development and creative UI/UX.
+🎓 A **BS in Information Technology** student from **Colegio de San Juan de Letran Manila**, exploring the world of software development and creative UI/UX.
 
 ---
 
