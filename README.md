@@ -50,27 +50,3 @@
 ### 🔧 Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/dubiSuar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dubiSuar&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubiSuar&layout=compact&theme=tokyonight&hide_border=false" />
-</a>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=dubiSuar&theme=tokyonight&hide_border=false" />
-
-</div>
-
----
-
-## 🧭 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=dubiSuar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
