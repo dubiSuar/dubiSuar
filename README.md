@@ -84,9 +84,6 @@
   </tr>
 </table>
 
----
-
-<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username-here&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Julian's GitHub Stats" />
