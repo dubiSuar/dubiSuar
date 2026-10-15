@@ -1,94 +1,75 @@
-<div align="center">
-  
-  <h1>👋 Hello, I'm Julian!</h1>
-  
-  <p>A <b>BS in Information Technology</b> student from <b>Colegio de San Juan de Letran Manila</b>,<br/>exploring the world of software development and creative UI/UX.</p>
-  
-  <p>
-    <a href="https://behance.net/dubidesigns"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/julianblancaflor"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="UI/UX design and web production. Figma wireframes to live sites, built for search and conversion." src="./assets/header-light.svg" width="100%">
+</picture>
 
-</div>
+<br>
 
----
+UI/UX designer and web production developer. I take projects from Figma wireframe to a live, production-ready site, pairing conversion-focused design with technical SEO and front-end development.
 
-<h2 align="center">💻 Tech Stack</h2>
+**Elsewhere** &nbsp; [Behance](https://behance.net/dubidesigns) &nbsp;/&nbsp; [LinkedIn](https://linkedin.com/in/julianblancaflor)
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Languages</h3>
-      <hr>
-      <p>
-        <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-        <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Front-End</h3>
-      <hr>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-        <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚛️ React Ecosystem</h3>
-      <hr>
-      <p>
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-        <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-        <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Backend & Database</h3>
-      <hr>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Design Tools</h3>
-      <hr>
-      <p>
-        <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-        <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔧 Tools & Platforms</h3>
-      <hr>
-      <p>
-        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<br>
 
+### Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username-here&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Julian's GitHub Stats" />
-</p>
+<dl>
+  <dt>Languages</dt>
+  <dd><code>JavaScript</code> <code>PHP</code> <code>Java</code> <code>Kotlin</code> <code>C#</code> <code>C++</code> <code>C</code></dd>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username-here&layout=compact&theme=tokyonight&hide_border=true" alt="Julian's Top Languages" />
-</p>
+  <dt>Front-end</dt>
+  <dd><code>React</code> <code>Next.js</code> <code>React Native</code> <code>React Router</code> <code>Redux</code></dd>
+
+  <dt>Markup and styling</dt>
+  <dd><code>HTML</code> <code>CSS</code> <code>Sass</code> <code>MUI</code> <code>Bootstrap</code> <code>jQuery</code></dd>
+
+  <dt>Back-end and data</dt>
+  <dd><code>Laravel</code> <code>MySQL</code> <code>Firebase</code> <code>REST API integration</code></dd>
+
+  <dt>CMS and site builders</dt>
+  <dd><code>WordPress</code> <code>Elementor</code> <code>Wix CMS</code></dd>
+
+  <dt>Design</dt>
+  <dd><code>Figma</code> <code>Photoshop</code> <code>Canva</code> <code>Wireframing</code> <code>Prototyping</code> <code>User flows</code> <code>Design systems</code> <code>Responsive design</code></dd>
+
+  <dt>SEO and growth</dt>
+  <dd><code>Technical SEO</code> <code>CRO</code> <code>Google Search Console</code></dd>
+
+  <dt>AI-assisted workflow</dt>
+  <dd><code>Claude Code</code> <code>Claude Design</code></dd>
+
+  <dt>Tools</dt>
+  <dd><code>Git</code> <code>GitHub</code> <code>Monday.com</code></dd>
+</dl>
+
+<br>
+
+### Certifications
+
+<dl>
+  <dt>Certiport</dt>
+  <dd>IT Specialist: HTML and CSS &nbsp;/&nbsp; IT Specialist: Databases &nbsp;/&nbsp; IT Specialist: Networking</dd>
+
+  <dt>freeCodeCamp</dt>
+  <dd>Responsive Web Design</dd>
+
+  <dt>TESDA</dt>
+  <dd>Developing Designs for User Experience</dd>
+
+  <dt>Cisco Networking Academy</dt>
+  <dd>Prompt Like an Engineer</dd>
+</dl>
+
+<br>
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dubiSuar&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=4cb38f&icon_color=4cb38f&text_color=a1a1aa">
+  <img alt="GitHub stats" width="56%" src="https://github-readme-stats.vercel.app/api?username=dubiSuar&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f8a6a&icon_color=2f8a6a&text_color=52525b">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dubiSuar&layout=compact&hide_border=true&bg_color=00000000&title_color=4cb38f&text_color=a1a1aa">
+  <img alt="Most used languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubiSuar&layout=compact&hide_border=true&bg_color=00000000&title_color=2f8a6a&text_color=52525b">
+</picture>
