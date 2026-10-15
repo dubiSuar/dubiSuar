@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="UI/UX design and web production. From Figma wireframe to production-ready site.">
+<style>
+  .sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, "Cascadia Code", Menlo, Consolas, monospace; }
+  .rise { animation: rise .9s cubic-bezier(.16,1,.3,1) both; }
+  .d1 { animation-delay: .05s } .d2 { animation-delay: .15s } .d3 { animation-delay: .25s }
+  .d4 { animation-delay: .4s }  .d5 { animation-delay: .55s }
+  @keyframes rise { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+  .dot { animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .25 } }
+  .float { animation: float 6s ease-in-out infinite; }
+  @keyframes float { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-8px) } }
+  .bar { transform-box: fill-box; transform-origin: left center; animation: type 5s cubic-bezier(.16,1,.3,1) infinite; }
+  .b2 { animation-delay: .25s } .b3 { animation-delay: .5s }
+  @keyframes type { 0% { transform: scaleX(0) } 25%,85% { transform: scaleX(1) } 100% { transform: scaleX(0) } }
+  .press { transform-box: fill-box; transform-origin: center; animation: press 5s ease-in-out infinite; animation-delay: 1.4s; }
+  @keyframes press { 0%,20%,30%,100% { transform: scale(1) } 25% { transform: scale(.94) } }
+  @media (prefers-reduced-motion: reduce) {
+    .rise, .dot, .float, .bar, .press { animation: none; opacity: 1; transform: none; }
+  }
+</style>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.2" fill="#3f3f46"/>
+  </pattern>
+  <linearGradient id="fadeX" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0.45" stop-color="#fff" stop-opacity="0"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+  </linearGradient>
+  <mask id="gridMask"><rect width="1200" height="420" fill="url(#fadeX)"/></mask>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+    <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.45"/>
+  </filter>
+  <clipPath id="card"><rect x="0.5" y="0.5" width="1199" height="419" rx="24"/></clipPath>
+</defs>
+
+<g clip-path="url(#card)">
+  <rect width="1200" height="420" fill="#0f0f11"/>
+  <rect width="1200" height="420" fill="url(#grid)" mask="url(#gridMask)" opacity=".7"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="419" rx="24" fill="none" stroke="#27272a"/>
+
+<!-- Left: identity -->
+<g class="rise d1">
+  <rect x="72" y="98" width="8" height="8" rx="1.5" fill="#4cb38f"/>
+  <text x="92" y="107" class="mono" font-size="14" letter-spacing="2" fill="#a1a1aa">UI/UX DESIGN  /  WEB PRODUCTION  /  FRONT-END</text>
+</g>
+<text x="68" y="196" class="sans rise d2" font-size="74" font-weight="650" letter-spacing="-3" fill="#f4f4f5">Design to</text>
+<text x="68" y="276" class="sans rise d3" font-size="74" font-weight="650" letter-spacing="-3" fill="#71717a">production<tspan class="dot" fill="#4cb38f">.</tspan></text>
+<text x="72" y="336" class="sans rise d4" font-size="21" fill="#a1a1aa">Figma wireframes to live sites, built for search and conversion.</text>
+
+<!-- Right: layered interface frames -->
+<g class="rise d5">
+  <g filter="url(#shadow)">
+    <rect x="742" y="78" width="320" height="214" rx="16" fill="#18181b" stroke="#27272a"/>
+  </g>
+  <line x1="742" y1="118" x2="1062" y2="118" stroke="#27272a"/>
+  <rect x="764" y="94" width="64" height="8" rx="4" fill="#3f3f46"/>
+  <rect x="764" y="140" width="92" height="132" rx="8" fill="none" stroke="#27272a"/>
+  <rect x="776" y="154" width="56" height="6" rx="3" fill="#3f3f46"/>
+  <rect x="776" y="170" width="44" height="6" rx="3" fill="#27272a"/>
+  <rect x="776" y="186" width="60" height="6" rx="3" fill="#27272a"/>
+  <rect x="776" y="202" width="38" height="6" rx="3" fill="#27272a"/>
+
+  <g class="float">
+    <g filter="url(#shadow)">
+      <rect x="872" y="168" width="262" height="176" rx="16" fill="#18181b" stroke="#3f3f46"/>
+    </g>
+    <rect x="896" y="194" width="34" height="34" rx="10" fill="none" stroke="#3f3f46"/>
+    <rect x="944" y="198" width="120" height="8" rx="4" fill="#f4f4f5" opacity=".85" class="bar"/>
+    <rect x="944" y="214" width="84" height="7" rx="3.5" fill="#3f3f46" class="bar b2"/>
+    <rect x="896" y="250" width="214" height="7" rx="3.5" fill="#27272a" class="bar b2"/>
+    <rect x="896" y="266" width="168" height="7" rx="3.5" fill="#27272a" class="bar b3"/>
+    <g class="press">
+      <rect x="896" y="296" width="96" height="28" rx="8" fill="#4cb38f"/>
+      <rect x="914" y="307" width="48" height="6" rx="3" fill="#18181b" opacity=".9"/>
+    </g>
+  </g>
+</g>
+</svg>
