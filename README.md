@@ -16,60 +16,29 @@ UI/UX designer and web production developer. I take projects from Figma wirefram
 
 <dl>
   <dt>Languages</dt>
-  <dd><code>JavaScript</code> <code>PHP</code> <code>Java</code> <code>Kotlin</code> <code>C#</code> <code>C++</code> <code>C</code></dd>
+  <dd><img src="https://api.iconify.design/simple-icons/javascript.svg?color=%239a9aa3&height=32" height="32" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/php.svg?color=%239a9aa3&height=32" height="32" alt="PHP" title="PHP">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%239a9aa3&height=32" height="32" alt="Java" title="Java">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/kotlin.svg?color=%239a9aa3&height=32" height="32" alt="Kotlin" title="Kotlin">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/csharp.svg?color=%239a9aa3&height=32" height="32" alt="C#" title="C#">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/cplusplus.svg?color=%239a9aa3&height=32" height="32" alt="C++" title="C++">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/c.svg?color=%239a9aa3&height=32" height="32" alt="C" title="C"></dd>
 
   <dt>Front-end</dt>
-  <dd><code>React</code> <code>Next.js</code> <code>React Native</code> <code>React Router</code> <code>Redux</code></dd>
+  <dd><img src="https://api.iconify.design/simple-icons/react.svg?color=%239a9aa3&height=32" height="32" alt="React and React Native" title="React and React Native">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%239a9aa3&height=32" height="32" alt="Next.js" title="Next.js">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/reactrouter.svg?color=%239a9aa3&height=32" height="32" alt="React Router" title="React Router">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/redux.svg?color=%239a9aa3&height=32" height="32" alt="Redux" title="Redux"></dd>
 
   <dt>Markup and styling</dt>
-  <dd><code>HTML</code> <code>CSS</code> <code>Sass</code> <code>MUI</code> <code>Bootstrap</code> <code>jQuery</code></dd>
+  <dd><img src="https://api.iconify.design/simple-icons/html5.svg?color=%239a9aa3&height=32" height="32" alt="HTML" title="HTML">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/css3.svg?color=%239a9aa3&height=32" height="32" alt="CSS" title="CSS">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/sass.svg?color=%239a9aa3&height=32" height="32" alt="Sass" title="Sass">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/mui.svg?color=%239a9aa3&height=32" height="32" alt="MUI" title="MUI">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/bootstrap.svg?color=%239a9aa3&height=32" height="32" alt="Bootstrap" title="Bootstrap">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/jquery.svg?color=%239a9aa3&height=32" height="32" alt="jQuery" title="jQuery"></dd>
 
   <dt>Back-end and data</dt>
-  <dd><code>Laravel</code> <code>MySQL</code> <code>Firebase</code> <code>REST API integration</code></dd>
+  <dd><img src="https://api.iconify.design/simple-icons/laravel.svg?color=%239a9aa3&height=32" height="32" alt="Laravel" title="Laravel">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/mysql.svg?color=%239a9aa3&height=32" height="32" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/firebase.svg?color=%239a9aa3&height=32" height="32" alt="Firebase" title="Firebase"></dd>
 
   <dt>CMS and site builders</dt>
-  <dd><code>WordPress</code> <code>Elementor</code> <code>Wix CMS</code></dd>
+  <dd><img src="https://api.iconify.design/simple-icons/wordpress.svg?color=%239a9aa3&height=32" height="32" alt="WordPress" title="WordPress">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/elementor.svg?color=%239a9aa3&height=32" height="32" alt="Elementor" title="Elementor">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/wix.svg?color=%239a9aa3&height=32" height="32" alt="Wix" title="Wix"></dd>
 
   <dt>Design</dt>
-  <dd><code>Figma</code> <code>Photoshop</code> <code>Canva</code> <code>Wireframing</code> <code>Prototyping</code> <code>User flows</code> <code>Design systems</code> <code>Responsive design</code></dd>
+  <dd><img src="https://api.iconify.design/simple-icons/figma.svg?color=%239a9aa3&height=32" height="32" alt="Figma" title="Figma">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/adobephotoshop.svg?color=%239a9aa3&height=32" height="32" alt="Photoshop" title="Photoshop">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/canva.svg?color=%239a9aa3&height=32" height="32" alt="Canva" title="Canva"></dd>
 
-  <dt>SEO and growth</dt>
-  <dd><code>Technical SEO</code> <code>CRO</code> <code>Google Search Console</code></dd>
+  <dt>SEO</dt>
+  <dd><img src="https://api.iconify.design/simple-icons/googlesearchconsole.svg?color=%239a9aa3&height=32" height="32" alt="Google Search Console" title="Google Search Console"></dd>
 
   <dt>AI-assisted workflow</dt>
-  <dd><code>Claude Code</code> <code>Claude Design</code></dd>
+  <dd><img src="https://api.iconify.design/simple-icons/claude.svg?color=%239a9aa3&height=32" height="32" alt="Claude Code and Claude Design" title="Claude Code and Claude Design"></dd>
 
   <dt>Tools</dt>
-  <dd><code>Git</code> <code>GitHub</code> <code>Monday.com</code></dd>
+  <dd><img src="https://api.iconify.design/simple-icons/git.svg?color=%239a9aa3&height=32" height="32" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/github.svg?color=%239a9aa3&height=32" height="32" alt="GitHub" title="GitHub"></dd>
 </dl>
-
-<br>
-
-### Certifications
-
-<dl>
-  <dt>Certiport</dt>
-  <dd>IT Specialist: HTML and CSS &nbsp;/&nbsp; IT Specialist: Databases &nbsp;/&nbsp; IT Specialist: Networking</dd>
-
-  <dt>freeCodeCamp</dt>
-  <dd>Responsive Web Design</dd>
-
-  <dt>TESDA</dt>
-  <dd>Developing Designs for User Experience</dd>
-
-  <dt>Cisco Networking Academy</dt>
-  <dd>Prompt Like an Engineer</dd>
-</dl>
-
-<br>
-
-### Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dubiSuar&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=4cb38f&icon_color=4cb38f&text_color=a1a1aa">
-  <img alt="GitHub stats" width="56%" src="https://github-readme-stats.vercel.app/api?username=dubiSuar&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f8a6a&icon_color=2f8a6a&text_color=52525b">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dubiSuar&layout=compact&hide_border=true&bg_color=00000000&title_color=4cb38f&text_color=a1a1aa">
-  <img alt="Most used languages" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubiSuar&layout=compact&hide_border=true&bg_color=00000000&title_color=2f8a6a&text_color=52525b">
-</picture>
